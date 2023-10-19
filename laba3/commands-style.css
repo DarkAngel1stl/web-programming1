@@ -1,0 +1,24 @@
+article {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  background: rgb(39, 41, 41);
+  font-size: 20px;
+  min-width: 48%;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.footer
+{
+  background-color: #000000;
+  color: #fa560a;
+  width: 100%;
+  text-align: center;
+  max-width: 100%;
+}
